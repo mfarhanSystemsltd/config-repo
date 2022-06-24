@@ -1,5 +1,5 @@
 ---
-# ACE Integration Server configuration file
+# ACE Integration Server configuration file test
 #
 # General notes :
 #  - Integration Server will load server.conf.yaml from directory set via --work-dir
