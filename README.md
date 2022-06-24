@@ -1,2 +1,2 @@
-# config-repo test
+# config-repo testing
 POC for single config
