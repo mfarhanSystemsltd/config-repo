@@ -1,0 +1,8 @@
+apiVersion: appconnect.ibm.com/v1beta1
+kind: Configuration
+metadata:
+  name: pos-elk-serverconf
+  namespace: int
+spec:
+  contents: replace-with-serverconf-base64
+  type: serverconf
