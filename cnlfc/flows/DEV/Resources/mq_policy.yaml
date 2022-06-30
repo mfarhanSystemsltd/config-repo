@@ -1,1 +1,8 @@
-
+apiVersion: appconnect.ibm.com/v1beta1
+kind: Configuration
+metadata:
+  name: cnlfc-flows-mq-policy
+  namespace: int
+spec:
+  contents: replace-with-policy-base64
+  type: policyproject
